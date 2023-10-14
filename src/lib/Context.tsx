@@ -48,18 +48,18 @@ interface DataContextType {
 }
 
 const demoData: DataProps = {
-    n: 'Taqui Imam',
+    n: 'Trung. Do Duc',
     i: 'https://firebasestorage.googleapis.com/v0/b/projectfriendz-45b49.appspot.com/o/images%2FSocialLogo.png?alt=media&token=551c9a3c-07e4-486d-9d26-96c619d817a9&_gl=1*uluah4*_ga*NDUyNjQ5MjYxLjE2OTcyMjI3MDU.*_ga_CW55HF8NVT*MTY5NzIyMjcwNS4xLjEuMTY5NzIyMjg0Ni4xMy4wLjA.',
     a: "I'm a self-taught Web developer who is always learning and creating cool Project stuffs.",
     fb: 'https://www.facebook.com/shahina.khatun.1044',
-    tw: 'https://twitter.com/Taquiimam14',
-    ig: 'https://www.instagram.com/taqui_imam_786/',
-    tg: 'https://t.me/@Taqui_devloper',
-    gt: 'https://github.com/taqui-786',
-    lk: 'https://linkedin.com/in/taqui-imam',
-    em: 'mdtaqui.jhar@gmail.com',
-    wh: '+916666666666',
-    yt: 'https://youtube.com/@james_smith',
+    tw: 'https://twitter.com/2dtrung',
+    ig: 'https://www.instagram.com/2dtrung/',
+    tg: '',
+    gt: 'https://github.com/2dtrung',
+    lk: 'https://linkedin.com/in/2dtrung',
+    em: 'sductrung@gmail.com',
+    wh: '+84765662318',
+    yt: '',
     bg: '#4F4F4F',
     ls: [
         {
@@ -90,7 +90,7 @@ const demoData: DataProps = {
             id: 5,
             i: 'ph:pencil-duotone',
             l: 'My Blog Posts',
-            u: 'https://taquideveloper.hashnode.dev/',
+            u: 'https://2dtrung-blog.com/',
         },
     ],
 }

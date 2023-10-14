@@ -22,14 +22,14 @@ const HomeEditor = () => {
     <DemoBtn/>
     <Link
               target='_blank'
-              href="https://github.com/sujjeee/linknode"
+              href="https://github.com/2dtrung"
               className={buttonVariants()}>
               <ShoppingCart className='mr-2 h-4 w-4' />
               Get Project
             </Link>
             <Link
               target='_blank'
-              href="https://twitter.com/Taquiimam14"
+              href="https://twitter.com/2dtrung"
               className={buttonVariants()}>
               <Twitter className='mr-2 h-4 w-4' />
               Twitter
