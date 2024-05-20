@@ -17,17 +17,17 @@ export async function generateMetadata({ searchParams }: any) {
     openGraph: {
       type: "website",
       locale: "en_US",
-      url: "https://itZmyLink.vercel.app",
-      title: `${data.n}'s - itZmyLink`,
+      url: "https://social-link.vercel.app",
+      title: `${data.n}'s - social-link`,
       description: `Find all of ${data.n}'s links in one place.`,
-      images: `https://itZmyLink.vercel.app/api/og?data=${encodeURI(data.n)}`,
-      siteName: `${data.n}'s - itZmyLink`,
+      images: `https://social-link.vercel.app/api/og?data=${encodeURI(data.n)}`,
+      siteName: `${data.n}'s - social-link`,
     },
     twitter: {
       card: "summary_large_image",
-      title: `${data.n} - itZmyLink`,
+      title: `${data.n} - social-link`,
       description: `Find all of ${data.n}'s links in one place.`,
-      images: `https://itZmyLink.vercel.app/api/og?data=${encodeURI(data.n)}`,
+      images: `https://social-link.vercel.app/api/og?data=${encodeURI(data.n)}`,
       creator: "@2dtrung",
     },
   };

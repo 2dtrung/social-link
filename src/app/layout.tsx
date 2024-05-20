@@ -8,10 +8,10 @@ const inter = Inter({ subsets: ["latin"] });
 
 // Original source: https://github.com/sadmann7/skateshop/blob/main/src/app/layout.tsx
 export const metadata: Metadata = {
-  metadataBase: new URL("https://itzmylink.vercel.app"),
+  metadataBase: new URL("https://social-link.vercel.app"),
   title: {
     default: siteConfig.name,
-    template: `%s - itZmyLink`,
+    template: `%s - social-link`,
   },
   description: siteConfig.description,
  
@@ -32,17 +32,17 @@ export const metadata: Metadata = {
     "link in bio",
     "short my url",
     "my links",
-    "itzmylink",
-    "itZmyLink",
+    "social-link",
+    "social-link",
     "mtLink"
   ],
   authors: [
     {
-      name: "Taqui Imam",
-      url: "https://github.com/taqui-786",
+      name: "Trung. Do Duc",
+      url: "https://github.com/2dtrung",
     },
   ],
-  creator: "Taqui imam",
+  creator: "Trung. Do Duc",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "white" },
     { media: "(prefers-color-scheme: dark)", color: "black" },
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [`${siteConfig.url}/og-image.png`],
-    creator: "@Taquiimam14",
+    creator: "@2dtrung",
   },
   icons: {
     icon: "/favicon.ico",
